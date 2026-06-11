@@ -1,0 +1,6 @@
+{
+  "name": "DreamForge",
+  "description": "Interactive Synthwave synthesizer, local music player, API console, and predictive camera face mood analyser.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
